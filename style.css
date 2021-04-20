@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  align-self: center ;
+  margin-left:20% ;
+}
+button {
+ width: 100px;
+ height: 60px;
+}
